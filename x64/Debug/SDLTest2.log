@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\benth\source\repos\Game\SDLTest2\ECS.h(73,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\benth\source\repos\Game\SDLTest2\Game.cpp(53,8): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int>(int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  SDLTest2.vcxproj -> C:\Users\benth\source\repos\Game\x64\Debug\SDLTest2.exe
